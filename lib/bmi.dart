@@ -123,7 +123,7 @@ class _InputBMIState extends State<InputBMI> {
             child: Text(
               'Developed by Resika Arthana',
               style: TextStyle(
-                  fontSize: 20,
+                  fontSize: 18,
                   fontWeight: FontWeight.w500,
                   color: Colors.white),
             ),
